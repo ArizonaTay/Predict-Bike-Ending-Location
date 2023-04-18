@@ -1,6 +1,5 @@
-# Predict Bike Ending Location
-
-This project aims to predict the ending bike station at the beginning of a bike trip for Wheelie Wonka. By providing users with bike availability in the future, the company aims to enhance their mobile app experience and help them plan their trips effectively.
+# Bike Sharing Demand Prediction
+This repository contains code for a machine learning model that predicts the demand for bike sharing services in Boston. The model uses data on weather conditions, bike station locations, and historical bike usage patterns to predict the number of bikes that will be rented from each bike station on a given day.
 
 ## Table of Contents
 - [Context](#context)
